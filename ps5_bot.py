@@ -11,7 +11,7 @@ import time
 import send_sms
 import config
 
-ps5_url = 'https://www.bestbuy.com/site/marvels-spider-man-miles-morales-launch-edition-playstation-4/6430158.p?skuId=6430158'
+ps5_url = 'https://www.bestbuy.com/site/sony-playstation-5-console/6426149.p?skuId=6426149'
 
 def get_page_session():
     session = HTMLSession()
